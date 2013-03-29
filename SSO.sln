@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBSITEA", "WEBSITEA\WEBSITEA.csproj", "{45B75822-9A5A-4B2B-BB9E-DE468818ED73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBSITEB", "WEBSITEB\WEBSITEB.csproj", "{BF6BFC67-2B88-4D42-8E5B-94EE6EE2DE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authen", "Authen\Authen.csproj", "{761E96BC-94C2-4B24-A137-866308DD4478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B75822-9A5A-4B2B-BB9E-DE468818ED73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B75822-9A5A-4B2B-BB9E-DE468818ED73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B75822-9A5A-4B2B-BB9E-DE468818ED73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B75822-9A5A-4B2B-BB9E-DE468818ED73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6BFC67-2B88-4D42-8E5B-94EE6EE2DE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6BFC67-2B88-4D42-8E5B-94EE6EE2DE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6BFC67-2B88-4D42-8E5B-94EE6EE2DE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6BFC67-2B88-4D42-8E5B-94EE6EE2DE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761E96BC-94C2-4B24-A137-866308DD4478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761E96BC-94C2-4B24-A137-866308DD4478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761E96BC-94C2-4B24-A137-866308DD4478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761E96BC-94C2-4B24-A137-866308DD4478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
